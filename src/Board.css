@@ -1,0 +1,12 @@
+.Board {
+  margin: 0 auto;
+  border: 5px solid darkgray;
+  display: inline-block;
+}
+
+.YouWonMessage {
+  font-size: 24px;
+  font-weight: bold;
+  color: pink;
+  margin-top: 20px;
+}
